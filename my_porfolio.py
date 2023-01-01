@@ -40,8 +40,8 @@ st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 # --- LOAD CSS, PDF & PROFIL PIC ---
 with open(css_file) as f:
     st.markdown("<style>{}</style>".format(f.read()), unsafe_allow_html=True)
-with open(resume_file, "rb") as pdf_file:
-    PDFbyte = pdf_file.read()
+# with open(resume_file, "rb") as pdf_file:
+#     PDFbyte = pdf_file.read()
 profile_pic = Image.open(profile_pic)
 
 
@@ -53,12 +53,12 @@ with col1:
 with col2:
     st.title(NAME)
     st.write(DESCRIPTION)
-    st.download_button(
-        label=" 📄 Download Resume",
-        data=PDFbyte,
-        file_name=resume_file.name,
-        mime="application/octet-stream",
-    )
+#     st.download_button(
+#         label=" 📄 Download Resume",
+#         data=PDFbyte,
+#         file_name=resume_file.name,
+#         mime="application/octet-stream",
+#     )
     st.write("📫", EMAIL)
 
 
