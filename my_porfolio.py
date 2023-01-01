@@ -16,7 +16,8 @@ PAGE_TITLE = "Mohit Poudel - CV"
 PAGE_ICON = ":wave:"
 NAME = "Mohit Poudel"
 DESCRIPTION = """
-Bioinformatics enthusiast, self-learning python programming.
+Bioinformatics and conservation ecology enthusiast,
+self-taught python programmer
 """
 EMAIL = "poudelmohit59@gmail.com"
 SOCIAL_MEDIA = {
