@@ -12,11 +12,11 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Mohit Poudel - CV"
-PAGE_ICON = ":wave:"
+PAGE_TITLE = "CV"
+PAGE_ICON = ":heart:"
 NAME = "Mohit Poudel"
 DESCRIPTION = """
-Bioinformatics and conservation ecology enthusiast,
+Bioinformatics & conservation ecology enthusiast,
 self-taught python programmer
 """
 EMAIL = "poudelmohit59@gmail.com"
