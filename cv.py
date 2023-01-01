@@ -139,6 +139,17 @@ st.write(
 """
 )
 
+# --- EDUCATIONAL BACKGROUND ---
+st.write('\n')
+st.subheader("Education")
+st.write(
+    """
+- ✔️ Bachelor of Science in Agriculture, Agriculture & Forestry University
+- ✔️ Undergraduate Thesis: FARMERS’ PERCEPTION ON POLLINATORS AND HONEYBEES IN SEED PRODUCTION SITES AT WESTERN RUKUM
+    """
+)
+
+
 
 # --- Projects & Accomplishments ---
 st.write('\n')
