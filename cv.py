@@ -28,6 +28,7 @@ SOCIAL_MEDIA = {
     "Medium": "https://medium.com/@poudelmohit59"
 }
 PROJECTS = {
+    "🏆 Lotka-Volterra Model Simulator": "https://mohit254-lotka-volterra-model-streamlit-app-qsvyge.streamlit.app/",
     "🏆 Phylogenetic Tree Construction ": "https://medium.com/@poudelmohit59/beginners-guide-to-phylogenetic-tree-construction-using-biopython-5accbd8345a2",
     "🏆 Genomic Sequence Analysis": "https://medium.com/@poudelmohit59/comparing-genetic-sequences-of-threatening-bat-borne-viruses-eea8c24d9bff",
     "🏆 GC Count in Python": "https://medium.com/@poudelmohit59/gc-count-in-python-855d38faf5cc",
