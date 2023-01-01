@@ -142,6 +142,7 @@ st.write(
 # --- EDUCATIONAL BACKGROUND ---
 st.write('\n')
 st.subheader("Education")
+st.write("---")
 st.write(
     """
 - ✔️ Bachelor of Science in Agriculture, Agriculture & Forestry University
