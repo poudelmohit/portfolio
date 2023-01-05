@@ -12,11 +12,11 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "CV"
+PAGE_TITLE = "MOHIT POUDEL"
 PAGE_ICON = ":heart:"
 NAME = "Mohit Poudel"
 DESCRIPTION = """
-Bioinformatics & conservation ecology enthusiast,
+Bioinformatics & population genetics enthusiast,
 self-taught python programmer
 """
 EMAIL = "poudelmohit59@gmail.com"
@@ -105,7 +105,7 @@ st.write("---")
 
 # --- JOB 1
 st.write('\n')
-st.write("🚧", "**Junior Researcher @ Central Lab of Biotechnology, Agriculture and Forestry University**")
+st.write("🚧", "**Research Intern @ Center for Biotechnology, Agriculture and Forestry University**")
 st.write("01/01/2023 - Present")
 st.write(
     """
@@ -129,7 +129,7 @@ st.write(
 
 # --- JOB 3
 st.write('\n')
-st.write("🚧", "**Teaching Volunteer | Shree Nepal Rashtriya Samsher Secondary School **")
+st.write("🚧", "**Teaching Volunteer @ Shree Nepal Rashtriya Samsher Secondary School**")
 st.write("03/2019 - 03/2020")
 st.write(
     """
@@ -147,6 +147,7 @@ st.write(
     """
 - ✔️ Bachelor of Science in Agriculture, Agriculture & Forestry University
 - ✔️ Undergraduate Thesis: FARMERS’ PERCEPTION ON POLLINATORS AND HONEYBEES IN SEED PRODUCTION SITES AT WESTERN RUKUM
+- ✔️ Advisor: Min Raj Pokhrel, PhD"
     """
 )
 
