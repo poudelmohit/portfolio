@@ -23,7 +23,7 @@ EMAIL = "poudelmohit59@gmail.com"
 SOCIAL_MEDIA = {
     "YouTube": "https://youtube.com/c/pathsalaonline",
     "LinkedIn": "https://www.linkedin.com/in/mohit-poudel-134bba153/",
-    "GitHub": "https://github.com/mohit254",
+    "GitHub": "https://github.com/poudelmohit",
     "Twitter": "https://twitter.com/MohitPoudel11",
     "Medium": "https://medium.com/@poudelmohit59"
 }
@@ -103,10 +103,22 @@ st.write('\n')
 st.subheader("Work History")
 st.write("---")
 
+# --- JOB 0
+st.write('\n')
+st.write("🚧", "**Graduate Research Assistant @ Alvarado-Serrano Lab, Ohio University**")
+st.write("01/08/2023 - Present")
+st.write(
+    """
+- ► isolation of DNA sequences and amplification of specific gene regions using molecular biology techniques
+- ► Working with Next-Generation-Sequencing (NGS) library preparation and becoming proficient in both dry and wetlab workflows
+- ► Analyzing and interpreting NGS data using bioinformatics tools for the publication of the ongoing research projects
+"""
+)
+
 # --- JOB 1
 st.write('\n')
 st.write("🚧", "**Research Intern @ Center for Biotechnology, Agriculture and Forestry University**")
-st.write("01/01/2023 - Present")
+st.write("01/2023 - 07/2023")
 st.write(
     """
 - ► Utilizing PCR machines to amplify specific DNA sequences, gaining proficiency in molecular biology techniques
@@ -145,9 +157,9 @@ st.subheader("Education")
 st.write("---")
 st.write(
     """
-- ✔️ Bachelor of Science in Agriculture, Agriculture & Forestry University
-- ✔️ Undergraduate Thesis: FARMERS’ PERCEPTION ON POLLINATORS AND HONEYBEES IN SEED PRODUCTION SITES AT WESTERN RUKUM
-- ✔️ Advisor: Min Raj Pokhrel, PhD"
+- ✔️ Masters in Biological Science, Ohio University, USA
+- ✔️ Bachelor of Science in Agriculture, Agriculture & Forestry University, Nepal
+
     """
 )
 
